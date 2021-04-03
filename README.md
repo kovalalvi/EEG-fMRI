@@ -7,10 +7,10 @@ Inspired by https://github.com/laughinghuman/EEG_fMRI
 Previous 
 - Make_prediction.ipynb - It is the main file. You download data, generate dataset, train Ridge loss and make prediction on test data
 
-I update the main file 
+
+**ALL_AGGREGATE.ipynb** I update the main file 
 
 
-Сейчас я сосредоточился на предсказательный части исследования.
 
 - Реализовал предварительную обработку данных
     - Убрал данные вначале и в конце эксперимента. В них было много шума и они мешали нормализации.
